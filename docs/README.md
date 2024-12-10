@@ -1,10 +1,7 @@
 # EDITOR DE TEXTO
 En este documento intentaré explicar un poco el funcionamiento del editor que he hecho,
-este editor es probablemente el peor codigo que vas a ver, ni se lua ni se como funciona
-un editor, esto es un trabajo para ver como funciona un editor y para comprobar que efectivamente
-lua no es el mejor lenguaje para esto. No añadiré más cosas al editor y faltan algunas cosas (scroll horizontal
-por ejemplo). También hay algunos fallos, como que al moverse hacia abajo con el scroll vertical, en la última línea
-se imprimen lineas incorrectas (esto es un error puramente gráfico).
+este editor es un pequeño proyecto para aprender el funcionamiento básico de Lua, así como para entender ciertos conceptos del funcionamiento de un editor de texto. No añadiré más cosas al editor y faltan algunas partes (scroll horizontal
+por ejemplo).
 
 Las referencias están al final del documento.
 ## Init
