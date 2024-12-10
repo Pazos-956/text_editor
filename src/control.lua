@@ -69,7 +69,7 @@ function Control_input ()
     local key
     while true do
       local key_byte, chk = key_input()
-      if key_byte > 127 or key_byte < 0 then -- Chafullada tremendisima vaya
+      if key_byte > 127 or key_byte < 0 then -- Arreglo temporal, solo acepta ascii original
         key = "ñ"
         key_input()
       else
