@@ -1,7 +1,7 @@
 # EDITOR DE TEXTO
 En este documento intentaré explicar un poco el funcionamiento del editor que he hecho,
 este editor es un pequeño proyecto para aprender el funcionamiento básico de Lua, así como para entender ciertos conceptos del funcionamiento de un editor de texto. No añadiré más cosas al editor y faltan algunas partes (scroll horizontal
-por ejemplo).
+por ejemplo). Además, el código no tiene intención de estar bien diseñado, sino que fui escribiendo y solucionando los problemas que surgían sobre la marcha, por lo que se podría mejorar bastante.
 
 Las referencias están al final del documento.
 ## Init
